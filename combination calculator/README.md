@@ -1,0 +1,2 @@
+## Info
+kombinasyon hesaplayan program
