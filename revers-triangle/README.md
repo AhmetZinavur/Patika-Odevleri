@@ -1,0 +1,3 @@
+## INFO
+
+Ters Üçgen
