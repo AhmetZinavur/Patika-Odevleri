@@ -1,0 +1,3 @@
+## Bilgi
+
+Sayı Tahmin Oyunu
